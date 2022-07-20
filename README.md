@@ -17,10 +17,12 @@
 
 <!--START_SECTION:badges-->
 
-[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](https://www.credly.com/badges/52fd1ebc-121b-42d4-9e01-0d12098764cb/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
+[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/52fd1ebc-121b-42d4-9e01-0d12098764cb/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
 [![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png)](https://www.credly.com/badges/56ce9341-5a52-4e33-a04b-c7eb19325b07/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
 [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/d303da6b-44f5-46e9-8a18-078daaa7b331/public_url")
-[![Introduction to Packet Tracer](https://images.credly.com/size/110x110/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](https://www.credly.com/badges/64bff86e-ac74-4ad5-ade9-3586aa9accb7/public_url")
-
+[![Learnathon2022__Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/31ecee58-b9fe-4508-8384-a4f9dd9b4233/public_url")
+[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/53e5873e-2225-4954-bb40-374eb0b485ff/public_url")
+[![Celonis Foundations](https://images.credly.com/size/110x110/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png)](https://www.credly.com/badges/3b2612c3-4544-4d5b-a8ea-4c462e1bf54d/public_url")
+[![Academic Process Mining Fundamentals](https://images.credly.com/size/110x110/images/a1ba51eb-7789-4b38-8173-afd5275d8e92/Academic_Process_Mining_Fundamentals-Learning-Foundational.png)](https://www.credly.com/badges/77b46e96-be79-4001-83b3-1d4013eebffb/public_url")
 <!--END_SECTION:badges-->
 
