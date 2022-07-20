@@ -6,7 +6,7 @@
 
 - 🌱 I’m Currently Learning **C/C++ & Java & Python & I've Learned AI-ML in AWS Academy Machine Learning Foundations.**
 
-- 👀 I’m Interested in **Competitive Codings and Some Other Activities.**
+- 👀 I’m Interested in **Competitive Codings & Editing.**
 
 - 📫 How to Reach Me : 
 - <a href="cs2086@global.org.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
