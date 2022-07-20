@@ -4,11 +4,12 @@
 ## About Me ✍ :
 - 🔭 I’m Currently Working in **Some Projects.**
 
-- 🌱 I’m Currently Learning **C/C++ & Java & Python I Have Learned AI-ML in AWS Academy Machine Learning Foundations.**
+- 🌱 I’m Currently Learning **C/C++ & Java & Python I've Learned AI-ML in AWS Academy Machine Learning Foundations.**
 
 - 👀 I’m Interested in **Competitive Codings and Some Other Activities.**
 
 - 📫 How to Reach Me : 
+- <a href="cs2086@global.org.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-pratap-singh-chauhan-882766227)
 - [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>](https://www.instagram.com/adisingh_14/)
 
@@ -22,6 +23,4 @@
 [![Introduction to Packet Tracer](https://images.credly.com/size/110x110/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](https://www.credly.com/badges/64bff86e-ac74-4ad5-ade9-3586aa9accb7/public_url")
 
 <!--END_SECTION:badges-->
-
-                                                                         **THANKYOU**
 
