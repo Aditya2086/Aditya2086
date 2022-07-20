@@ -2,11 +2,11 @@
 <h3 align="center">I'm Pursuing My B.Tech in Computer Science & Engineering From Global Engineering College,Jabalpur.</h3>
 
 ## About Me ✍ :
-- 🔭 I’m Currently Working **in New Projects.**
+- 🔭 I’m Currently Working in **Some Projects.**
 
-- 🌱 I’m Currently Learning **C/C++ & I Have Learned AI-ML in AWS Academy Machine Learning Foundations.**
+- 🌱 I’m Currently Learning **C/C++ & Java & Python I Have Learned AI-ML in AWS Academy Machine Learning Foundations.**
 
-- 👀 I’m Interested in **Artificial Intelligence & Machine Learning & Many More Things.**
+- 👀 I’m Interested in **Competitive Codings and Some Other Activities.**
 
 - 📫 How to Reach Me : 
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-pratap-singh-chauhan-882766227)
