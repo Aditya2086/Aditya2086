@@ -4,7 +4,7 @@
 ## About Me ✍ :
 - 🔭 I’m Currently Working in **Some Projects.**
 
-- 🌱 I’m Currently Learning **C/C++ & Java & Python I've Learned AI-ML in AWS Academy Machine Learning Foundations.**
+- 🌱 I’m Currently Learning **C/C++ & Java & Python & I've Learned AI-ML in AWS Academy Machine Learning Foundations.**
 
 - 👀 I’m Interested in **Competitive Codings and Some Other Activities.**
 
