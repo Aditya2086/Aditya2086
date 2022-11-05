@@ -28,4 +28,4 @@
 
 ## Badges in Hacktoberfest 2022 :
 
-[![@aditya2086's Holopin board](https://holopin.me/aditya2086)]
+![@aditya2086's Holopin board](https://holopin.me/aditya2086)
