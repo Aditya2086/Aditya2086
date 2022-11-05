@@ -26,6 +26,6 @@
 [![Academic Process Mining Fundamentals](https://images.credly.com/size/110x110/images/0831dac1-0a49-448d-a786-57c72c984bd1/image.png)](https://www.credly.com/badges/77b46e96-be79-4001-83b3-1d4013eebffb/public_url")
 <!--END_SECTION:badges-->
 
-## Badges Of Hacktoberfest 2022 :
+## Badges in Hacktoberfest 2022 :
 
 [![@aditya2086's Holopin board](https://holopin.me/aditya2086)](https://holopin.io/@aditya2086)
