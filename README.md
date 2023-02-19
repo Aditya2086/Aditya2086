@@ -24,10 +24,8 @@
 [![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/53e5873e-2225-4954-bb40-374eb0b485ff/public_url")
 [![Celonis Foundations](https://images.credly.com/size/110x110/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png)](https://www.credly.com/badges/3b2612c3-4544-4d5b-a8ea-4c462e1bf54d/public_url")
 [![Academic Process Mining Fundamentals](https://images.credly.com/size/110x110/images/0831dac1-0a49-448d-a786-57c72c984bd1/image.png)](https://www.credly.com/badges/77b46e96-be79-4001-83b3-1d4013eebffb/public_url")
-[![Alteryx Foundational Micro-Credential](https://images.credly.com/size/110x110/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png)]
-(https://www.credly.com/badges/b6f02704-76e1-45a8-886d-8557d6930003/public_url")
-[![Alteryx Designer Core Certification](https://images.credly.com/size/110x110/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png)]
-(https://www.credly.com/badges/75da5fbd-3ec5-444c-93aa-4f6c70deda54/public_url")
+[![Alteryx Foundational Micro-Credential](https://images.credly.com/size/110x110/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png)](https://www.credly.com/badges/b6f02704-76e1-45a8-886d-8557d6930003/public_url")
+[![Alteryx Designer Core Certification](https://images.credly.com/size/110x110/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png)](https://www.credly.com/badges/75da5fbd-3ec5-444c-93aa-4f6c70deda54/public_url")
 <!--END_SECTION:badges-->
 
 ## Badges in Hacktoberfest 2022 :
