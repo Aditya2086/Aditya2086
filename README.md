@@ -19,6 +19,7 @@
 
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/52fd1ebc-121b-42d4-9e01-0d12098764cb/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
 [![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/110x110/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png)](https://www.credly.com/badges/56ce9341-5a52-4e33-a04b-c7eb19325b07/public_url "AWS Academy Graduate - AWS Academy Machine Learning Foundations")
+[![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](https://www.credly.com/badges/c842b384-5d07-4729-8256-91302d9d4924/public_url")
 [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/d303da6b-44f5-46e9-8a18-078daaa7b331/public_url")
 [![Learnathon2022__Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/31ecee58-b9fe-4508-8384-a4f9dd9b4233/public_url")
 [![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/53e5873e-2225-4954-bb40-374eb0b485ff/public_url")
