@@ -1,5 +1,5 @@
 <h1 align="center">Hi There<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditya Pratap Singh Chauhan</a> 😃</h1>
-<h3 align="center">I'm Pursuing My B.Tech in Computer Science & Engineering From Global Nature Care Sangathn's Group Of Institutions ,Jabalpur.</h3>
+<h3 align="center">I'm Pursuing My B.Tech in Computer Science & Engineering From Global Nature Care Sangathan's Group Of Institutions , Jabalpur.</h3>
 
 ## About Me ✍ :
 - 🔭 I’m Currently Working in **Some Projects.**
