@@ -35,6 +35,10 @@
 [![Job Application Essentials](https://images.credly.com/size/110x110/images/7ae738cc-d7af-45fd-ad53-3e21666cdeca/Job_Application_Essentials.png)](https://www.credly.com/badges/2a54b78e-b51f-4dfc-b4d5-ba136a219b59/public_url")
 <!--END_SECTION:badges-->
 
+## My Contributions & Trophies :
+
+gxvxb
+
 ## Badges in Hacktoberfest 2022 :
 
 [![An image of @aditya2086's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya2086)](https://holopin.io/@aditya2086)
