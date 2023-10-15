@@ -37,7 +37,7 @@
 
 ## My Contributions & Trophies :
 
-gxvxb
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aditya2086&theme=radical&hide_border=true" alt="GitHub Streak" /><br/>
 
 ## Badges in Hacktoberfest 2022 :
 
