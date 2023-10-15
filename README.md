@@ -1,4 +1,4 @@
-<h1 align="center">Hey Guys😃, It's Me Aditya Pratap Singh Chauhan👦</a></h1>
+<h1 align="center">Hey Guys😃, It's Me Aditya Pratap Singh Chauhan👨‍🎓</a></h1>
 <h3 align="center">I'm Pursuing B.Tech in Computer Science & Engineering From Global Nature Care Sangathan's Group Of Institutions , Jabalpur.</h3>
 
 ## About Me :
