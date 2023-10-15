@@ -44,8 +44,11 @@
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya2086&theme=radical" height="180em" alt="Aditya2086" />
 <a href="https://github.com/Aditya2086">
+  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aditya2086&theme=radical&hide_border=true" alt="GitHub Streak" /><br/>
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya2086&theme=radical" height="180em" alt="Aditya2086" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya2086&theme=radical" height="180em" alt="Aditya2086" />
 </div>
 
