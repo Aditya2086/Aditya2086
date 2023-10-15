@@ -11,7 +11,7 @@
 - 📫 How to Reach Me : 
 - <a href="cs2086@global.org.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-pratap-singh-chauhan-882766227)
-- [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>](https://www.instagram.com/adisingh_14/)
+- [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>](https://www.instagram.com/adityasingh.034/)
 
 ## Certifications :
 
