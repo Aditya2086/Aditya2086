@@ -1,7 +1,7 @@
-<h1 align="center">Hi There👋, I'm Aditya Pratap Singh Chauhan</a> 😃</h1>
-<h3 align="center">I'm Pursuing My B.Tech in Computer Science & Engineering From Global Nature Care Sangathan's Group Of Institutions , Jabalpur.</h3>
+<h1 align="center">Hey Guys😃, It's Me Aditya Pratap Singh Chauhan!!</a></h1>
+<h3 align="center">I'm Pursuing B.Tech in Computer Science & Engineering From Global Nature Care Sangathan's Group Of Institutions , Jabalpur.</h3>
 
-## About Me ✍ :
+## About Me :
 - 🔭 I’m Currently Working in **Some Projects.**
 
 - 🌱 I’m Currently Learning **C/C++ & Java & Python & I've Learned AI-ML in AWS Academy Machine Learning Foundations & Data Analytic Process Automation Organised By Alteryx SparkED.**
