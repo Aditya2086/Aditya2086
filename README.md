@@ -35,12 +35,19 @@
 [![Job Application Essentials](https://images.credly.com/size/110x110/images/7ae738cc-d7af-45fd-ad53-3e21666cdeca/Job_Application_Essentials.png)](https://www.credly.com/badges/2a54b78e-b51f-4dfc-b4d5-ba136a219b59/public_url")
 <!--END_SECTION:badges-->
 
-## My Contributions & Trophies :
+## Github Trophies :
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya2086&theme=radical)
-<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aditya2086&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya2086&theme=elegant)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya2086&theme=elegant)
+![trophy](https://github-profile-trophy.vercel.app/?username=Aditya2086&theme=radical)
+
+## Contributions & Statistics :
+
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya2086&theme=radical" height="180em" alt="Aditya2086" />
+<a href="https://github.com/Aditya2086">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aditya2086&theme=radical&hide_border=true" alt="GitHub Streak" /><br/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya2086&theme=radical" height="180em" alt="Aditya2086" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya2086&theme=radical" height="180em" alt="Aditya2086" />
+</div>
 
 ## Badges in Hacktoberfest 2022 :
 
