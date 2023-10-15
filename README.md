@@ -37,7 +37,10 @@
 
 ## My Contributions & Trophies :
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aditya2086&theme=radical&hide_border=true" alt="GitHub Streak" /><br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya2086&theme=radical)
+<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aditya2086&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya2086&theme=elegant)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya2086&theme=elegant)
 
 ## Badges in Hacktoberfest 2022 :
 
