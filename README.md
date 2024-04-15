@@ -22,8 +22,8 @@
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/cc271d5c-ae50-42ca-94f2-0004d3ee312e/public_url")
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/100x100/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/3d66d600-00f2-47b8-8e12-173ecf2df6f3/public_url")
 [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/100x100/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/e4bd72b0-fc8e-42e8-8f58-d52e5a5ffdda/public_url")
-[![Cloud Digital Leader Certification](https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png)](https://www.credly.com/badges/e71f06e9-f1bb-4ebe-ad88-c8573f6bf6fe/public_url")
-[![Associate Cloud Engineer Certification](https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](https://www.credly.com/badges/b6378c29-fb62-4257-95ed-8ddd69d859bc/public_url")
+[![Cloud Digital Leader Certification](https://images.credly.com/size/100x100/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png)](https://www.credly.com/badges/e71f06e9-f1bb-4ebe-ad88-c8573f6bf6fe/public_url")
+[![Associate Cloud Engineer Certification](https://images.credly.com/size/100x100/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](https://www.credly.com/badges/b6378c29-fb62-4257-95ed-8ddd69d859bc/public_url")
 
 <!--END_SECTION:badges-->
 
