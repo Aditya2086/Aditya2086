@@ -40,6 +40,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya2086&theme=radical" height="180em" alt="Aditya2086" />
 </div>
 
-## Badges in Hacktoberfest 2022 & 2023 :
+## Hacktoberfest Badges :
 
 [![An image of @aditya2086's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya2086)](https://holopin.io/@aditya2086)
